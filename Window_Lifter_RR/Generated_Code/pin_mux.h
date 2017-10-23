@@ -7,11 +7,7 @@
 **     Version     : Component 1.2.0, Driver 1.4, CPU db: 3.00.000
 **     Repository  : SDK_S32K14x_07
 **     Compiler    : GNU C Compiler
-<<<<<<< HEAD
-**     Date/Time   : 2017-10-23, 14:25, # CodeGen: 0
-=======
-**     Date/Time   : 2017-10-23, 14:19, # CodeGen: 0
->>>>>>> 31ace9bb045b8e284be072b5c46996b38ca7ec2c
+**     Date/Time   : 2017-10-23, 14:45, # CodeGen: 0
 **     Abstract    :
 **
 **     Settings    :
