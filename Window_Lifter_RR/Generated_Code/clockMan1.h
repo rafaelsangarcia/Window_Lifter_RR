@@ -7,7 +7,11 @@
 **     Version     : Component SDK_S32K14x_07, Driver 01.00, CPU db: 3.00.000
 **     Repository  : SDK_S32K14x_07
 **     Compiler    : GNU C Compiler
+<<<<<<< HEAD
 **     Date/Time   : 2017-10-23, 14:25, # CodeGen: 0
+=======
+**     Date/Time   : 2017-10-23, 14:19, # CodeGen: 0
+>>>>>>> 31ace9bb045b8e284be072b5c46996b38ca7ec2c
 **     Contents    :
 **         CLOCK_SYS_SetScgConfiguration     - scg_status_t CLOCK_SYS_SetScgConfiguration(const scg_config_t * scgConfig);
 **         CLOCK_SYS_SetPccConfiguration     - void CLOCK_SYS_SetPccConfiguration(const pcc_config_t * peripheralClockConfig);

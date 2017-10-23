@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Window_Lifter_RR/Project_Settings
 /Window_Lifter_RR/SDK
 /Window_Lifter_RR/.cproject
@@ -8,3 +9,16 @@
 /Window_Lifter_RR/.settings
 /Window_Lifter_RR/Documentation
 /.metadata
+=======
+.cproject
+.project
+.Window_Lifter_RR.g_c
+.Window_Lifter_RR.g_x
+ProcessorExpert.pe
+.settings
+Debug
+Documentation
+Project_Settings
+SDK
+.metadata
+>>>>>>> 31ace9bb045b8e284be072b5c46996b38ca7ec2c
