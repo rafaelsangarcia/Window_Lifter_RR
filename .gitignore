@@ -18,6 +18,10 @@ ProcessorExpert.pe
 .settings
 Debug
 Documentation
+<<<<<<< HEAD
 Project_Setting
+=======
+Project_Settings
+>>>>>>> c01adace318f680f928a5046ed3876eec77bb7e9
 .metadata
 >>>>>>> 31ace9bb045b8e284be072b5c46996b38ca7ec2c
